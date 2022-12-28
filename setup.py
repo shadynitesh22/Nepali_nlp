@@ -11,7 +11,7 @@ with open('requirements.txt', 'r') as f:
     required = f.read().splitlines()
 
 setup(
-    name='Nepali nlp',
+    name='Nepali-nlp',
     description='Natural language processing library for Nepali langauge',
     long_description=long_description,
     long_description_content_type='text/markdown',
